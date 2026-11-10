@@ -1,4 +1,5 @@
 # 🎵 The Streaming Money Machine
+🔗 **[Click Here to View Interactive Tableau Dashboard](https://prod-ch-a.online.tableau.com/#/site/mosestv2244-638548aa76/views/SpotifyTheStreamingMoneyMachine/Dashboard1)**
 > **Can an Independent Artist Actually Pay Rent from Spotify?**
 
 ![Monte Carlo Results](images/monte_carlo_results.png)
