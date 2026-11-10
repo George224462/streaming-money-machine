@@ -1,0 +1,25 @@
+SPOTIFY ARTIST FINANCIAL MODEL,,,
+,,,
+Stream Payout Rate,$0.0040,,
+Platform Cut Rate,15%,,
+Monthly Rent," $1,500.00 ",,
+Annual Rent," $18,000.00 ",,
+,,,
+Financial Metric,Bedroom Producer,Rising Indie,Viral Breakthrough
+Tracks Released / Year,3,6,2
+Monthly Streams,15000,150000,2500000
+Production Cost / Track,300,800,2500
+Annual Marketing Budget,200,1500,10000
+Distribution Fees / Year,20,50,200
+--- REVENUES ---,,,
+Annual Gross Streams,180000,1800000,30000000
+Gross Streaming Revenue,$720.0000,"$7,200.0000","$120,000.0000"
+Platform Cut (15%),$108.0000,"$1,080.0000","$18,000.0000"
+Net Streaming Revenue,$612.0000,"$6,120.0000","$102,000.0000"
+--- EXPENSES ---,,,
+Total Production Cost,$900.00,"$4,800.00","$5,000.00"
+Total Expenses ($),"$1,120.00","$6,350.00","$15,200.00"
+--- BOTTOM LINE ---,,,
+NET ANNUAL PROFIT / (LOSS),-$508.0000,-$230.0000,"$86,800.0000"
+Pays Rent ($18K)?,NO ?,NO ?,YES ?
+Break-Even Monthly Streams,"468,627","596,814","813,725"
